@@ -1,30 +1,30 @@
 #include<stdio.h>
-#define row 10
-#define col 10
-int main()
+void main()
 {
-int mat1[row][col];
-int r,c;
-printf("Enter the rows of matrix");
-scanf("%d",&r);
-printf("Enter the columns of matrix");
-scanf("%d",&c);
-printf("Enter Matrix");
-for(int i=0;i<r;i++)
-{
-for(int j=0;j<c;j++)
-{
-scanf("%d",&mat1[i][j]);
+    int r,c, i,j,mat[10][10];
+    printf("enter no of rows");
+    scanf("%d",&r);
+    printf("enter no of cols");
+    scanf("%d",&c);
+    printf("Enter the actual a matrix element ");
+    for( i=0;i<r;i++)
+    {
+        for ( j=0;j<c;j++)
+        {
+        
+            scanf("%d",&mat[r][c]);
+        }
+    }
+     printf("matrix is");
+     for(i=0;i<r;i++)
+    {
+        for (j=0;j<c;j++)
+        {
+            printf("%d\t",mat[r][c]);
+        }
+    }
+    
+    printf("\n");
 }
-}
-printf("Matrix \n");
-for(int i=0;i<r;i++)
-{
-for(int j=0;j<c;j++)
-{
-printf("%d",mat1[i][j]);
-}
-printf("\n");
-}
-return 0;
-}
+   
+   
