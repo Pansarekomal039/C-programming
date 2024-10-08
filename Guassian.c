@@ -4,7 +4,7 @@
 #define row 10
 #define col 10
 
-// Function for Gaussian Elimination with Partial Pivoting
+
 void gaussianElimination(double A[row][col], double b[row], double x[row], int n) {
     for (int i = 0; i < n; i++) {
         // Find the maximum element in column i (for pivoting)
