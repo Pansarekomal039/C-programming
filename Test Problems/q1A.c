@@ -8,7 +8,7 @@ int main()
     for(int i=0;i<=n;i++)
     {
      scanf("%d",&arr[i]);
-     sum+=i;
+     sum+=arr[i];
     }
     printf("The sum of %d integer is %d",n,sum);
     return 0;
