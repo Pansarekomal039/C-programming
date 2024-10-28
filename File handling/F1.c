@@ -5,7 +5,7 @@ int main() {
     int n, i;
     int *arr;
 
-    // Open the file for reading
+   
     FILE *fp = fopen("Numbers.txt", "r");
     if (fp == NULL) {
         printf("File not found error\n");
