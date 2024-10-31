@@ -1,4 +1,4 @@
-// C Program to check for prime number using
+
 //  Simple Trial Division
 #include <stdbool.h>
 #include <stdio.h>
