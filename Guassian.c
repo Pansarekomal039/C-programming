@@ -7,7 +7,7 @@
 
 void gaussianElimination(double A[row][col], double b[row], double x[row], int n) {
     for (int i = 0; i < n; i++) {
-        // Find the maximum element in column i (for pivoting)
+         
         int max_row = i;
         for (int k = i + 1; k < n; k++) {
             if (fabs(A[k][i]) > fabs(A[max_row][i])) {
