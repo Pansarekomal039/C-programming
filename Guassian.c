@@ -15,7 +15,7 @@ void gaussianElimination(double A[row][col], double b[row], double x[row], int n
             }
         }
 
-        // Swap the maximum row with the current row
+        
         for (int k = i; k < n; k++) {
             double temp = A[max_row][k];
             A[max_row][k] = A[i][k];
