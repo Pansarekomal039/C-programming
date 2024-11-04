@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>  // For fabs()
+#include <math.h>  
 
 #define row 10
 #define col 10
