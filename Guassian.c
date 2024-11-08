@@ -33,9 +33,7 @@ void gaussianElimination(double A[row][col], double b[row], double x[row], int n
             }
             b[k] -= factor * b[i];
         }
-    }
-
-    // Back substitution to solve for x
+    
     for (int i = n - 1; i >= 0; i--) {
         x[i] = b[i];
         for (int j = i + 1; j < n; j++) {
