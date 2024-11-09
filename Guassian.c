@@ -49,7 +49,7 @@ int main() {
     int sum[row][col];
     int r, c;
 
-    // Input for the first matrix
+    
     printf("Enter the number of rows for the matrix: ");
     scanf("%d", &r);
     printf("Enter the number of columns for the matrix: ");
