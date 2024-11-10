@@ -55,7 +55,6 @@ int main() {
     printf("Enter the number of columns for the matrix: ");
     scanf("%d", &c);
 
-    // Input first matrix
     printf("Enter first matrix values:\n");
     for (int i = 0; i < r; i++) {
         for (int j = 0; j < c; j++) {
