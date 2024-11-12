@@ -4,7 +4,7 @@ int main() {
     FILE *filePointer;
     char data[100];
     
-    // Open a file in write mode
+  
     filePointer = fopen("file.txt", "w");
     
     // Check if the file was opened successfully
