@@ -5,7 +5,6 @@ int main() {
     // Pointer to the file
     FILE *file;
 
-    // Open the file in read mode ("r")
     file = fopen("example.txt", "r");
 
     // Check if the file was opened successfully
