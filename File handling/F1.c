@@ -12,7 +12,7 @@ int main() {
         return 1;  // Exit if the file is not found
     }
 
-    // Read the number of elements (n) from the file
+   
     if (fscanf(fp, "%d", &n) != 1) {
         printf("Error reading the number of elements\n");
         fclose(fp);
