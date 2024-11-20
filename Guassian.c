@@ -24,7 +24,6 @@ void gaussianElimination(double A[row][col], double b[row], double x[row], int n
         double temp = b[max_row];
         b[max_row] = b[i];
         b[i] = temp;
-
         
         for (int k = i + 1; k < n; k++) {
             double factor = A[k][i] / A[i][i];
