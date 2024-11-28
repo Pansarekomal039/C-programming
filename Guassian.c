@@ -69,8 +69,7 @@ int main() {
         printf("\n");
     }
 
-    // Matrix addition (optional if needed)
-    printf("Enter second matrix values (same dimensions):\n");
+      printf("Enter second matrix values (same dimensions):\n");
     for (int i = 0; i < r; i++) {
         for (int j = 0; j < c; j++) {
             scanf("%d", &mat2[i][j]);
