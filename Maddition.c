@@ -50,7 +50,6 @@ for(int i=0;i<r;i++)
 for(int j=0;j<c;j++)
 {
 sum[i][j]=mat1[i][j]+mat2[i][j];
-
 }
 }
 printf("Matrix Addition\n");
