@@ -4,7 +4,6 @@ int add(int a, int b);
 int subtract(int a, int b);
 int multiply(int a, int b);
 float divide(int a, int b);
-
 int main() {
     int num1, num2;
     printf("Enter two integers: ");
