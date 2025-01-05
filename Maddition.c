@@ -46,7 +46,7 @@ printf("%d\t",mat2[i][j]);
 printf("\n");
 }
 for(int i=0;i<r;i++)
-{
+{//abs
 for(int j=0;j<c;j++)
 {
 sum[i][j]=mat1[i][j]+mat2[i][j];
