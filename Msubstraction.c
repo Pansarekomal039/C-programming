@@ -59,7 +59,7 @@ for(int j=0;j<c;j++)
 {
     printf("%d\t",sum[i][j]);
 }
-printf("\n");
+printf("\n");  
 }
 return 0;
 }
