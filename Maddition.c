@@ -40,7 +40,7 @@ printf("Second Matrix \n");
 for(int i=0;i<r;i++)
 {
 for(int j=0;j<c;j++)
-{
+{   
 printf("%d\t",mat2[i][j]);
 }
 printf("\n");
