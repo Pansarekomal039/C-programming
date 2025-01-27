@@ -7,7 +7,7 @@ int main()
     int array[size];
     printf("enter element of array");
     for(i=0;i<size;i++)
-    {
+    {         
         scanf("%d",&array[i]);
     }
         largest=array[0];
