@@ -13,7 +13,6 @@ int main()
     printf("\n the full name is : %s ",str);
     printf("\n age is : %d",age);
     printf("\n  the hometown is : %c",homeT);
-
     return 0;
 
 }
