@@ -11,7 +11,6 @@ void main()
     {
         for ( j=0;j<c;j++)
         {
-        
             scanf("%d",&mat[r][c]);
         }
     }
