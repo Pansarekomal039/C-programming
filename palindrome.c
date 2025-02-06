@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
 int isPalindrome(char str[]) {
     int left = 0;
     int right = strlen(str) - 1;
