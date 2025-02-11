@@ -100,7 +100,6 @@ int main() {
         scanf("%lf", &b[i]);
     }
 
-    // Solve using Gaussian elimination
     gaussianElimination(A, b, x, n);
 
     // Output solution
