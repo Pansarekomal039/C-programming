@@ -31,7 +31,7 @@ printf("First Matrix \n");
 for(int i=0;i<r;i++)
 {
 for(int j=0;j<c;j++)
-{
+{ 
 printf("%d\t",mat1[i][j]);
 }
 printf("\n");
