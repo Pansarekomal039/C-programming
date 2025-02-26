@@ -18,7 +18,7 @@ for(int j=0;j<c;j++)
 {
 scanf("%d",&mat1[i][j]);
 }
-}
+} 
 printf("Enter second Matrix\n");
 for(int i=0;i<r;i++)
 {
