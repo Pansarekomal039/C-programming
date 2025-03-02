@@ -5,7 +5,8 @@ int main() {
     int sum = 0;      // Variable to store the sum of the numbers
     float average;    // Variable to store the average
 
-    // Read 10 integers from the user
+    
+// Read 10 integers from the user
     printf("Enter 10 integers:\n");
     for (int i = 0; i < 10; i++) {
         scanf("%d", &numbers[i]);  // Read each integer
