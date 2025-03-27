@@ -9,7 +9,7 @@ void gaussianElimination(double A[row][col], double b[row], double x[row], int n
             if (fabs(A[k][i]) > fabs(A[max_row][i])) {
                 max_row = k;
             }
-        } 
+        }     
         for (int k = i; k < n; k++) {
             double temp = A[max_row][k];
             A[max_row][k] = A[i][k];
