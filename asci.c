@@ -7,4 +7,4 @@ int main() {
     printf("The ASCII value of '%c' is %d\n", ch, asciiValue);
 
     return 0;
-}
+} 
