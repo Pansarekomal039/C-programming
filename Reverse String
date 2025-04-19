@@ -7,7 +7,7 @@ void reverseString(char str[]) {
         str[i] = str[n - i - 1];
         str[n - i - 1] = temp;
     } 
-}
+} 
 int main() {
     char str[100];
     printf("Enter a string: ");
