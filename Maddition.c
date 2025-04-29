@@ -11,7 +11,7 @@ printf("Enter the rows of matrix");
 scanf("%d",&r);
 printf("Enter the columns of matrix");
 scanf("%d",&c);
-printf("Enter  first Matrix\n");
+printf("Enter  first Matrix\n");hu
 for(int i=0;i<r;i++)
 {
 for(int j=0;j<c;j++) 
