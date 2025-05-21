@@ -1,6 +1,6 @@
 ko#include<stdio.h>
 #define row 10
-#define col 10
+#define col 10 
 int main()
 {
 int mat1[row][col];
