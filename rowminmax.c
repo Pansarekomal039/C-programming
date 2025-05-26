@@ -14,7 +14,7 @@ void findRowMinMax(int arr[ROWS][COLS], int min[ROWS], int max[ROWS]) {
             if (arr[i][j] > max[i]) {
                 max[i] = arr[i][j];
             }
-        }
+        } 
     }
 }
 
