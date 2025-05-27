@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> 
 void main()
 {
     int r,c, i,j,mat[10][10];
