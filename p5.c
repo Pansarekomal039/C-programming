@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     void *voidPtr = NULL;
     printf("Value of void pointer (initially NULL): %p\n", (void*)voidPtr);
