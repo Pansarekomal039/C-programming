@@ -12,7 +12,7 @@ bool checkDuplicatesOrDistinct(int arr[], int n) {
     }
 
     return true;
-}
+} 
 
 int main() {
     int arr[] = {1, 2, 3, 4, 5, 6}; 
