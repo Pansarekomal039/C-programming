@@ -6,7 +6,7 @@ int main()
     printf("Enter the row of matrix;");
     scanf("%d",&m);
     printf("Enter the col of matrix");
-    scanf("%d",&n);
+    scanf("%d",&n); 
     printf("Enter Matrix Element");
     for(i=0;i<m;i++)
     {
