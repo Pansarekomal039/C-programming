@@ -4,7 +4,7 @@ int main() {
     int numbers[10];  // Array to store 10 integers
     int sum = 0;      // Variable to store the sum of the numbers
     float average;    // Variable to store the average
-
+ 
     
 // Read 10 integers from the user
     printf("Enter 10 integers:\n");
