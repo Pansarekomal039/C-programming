@@ -6,7 +6,7 @@ void goodbye ();
 int main() {
     
     hello();
-     goodbye();
+     goodbye(); 
     return 0;
 }
 void hello(){
