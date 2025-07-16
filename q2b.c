@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int m, n, i, j;
+    int m, n, i, j; 
     printf("Enter number of Rows: ");
     scanf("%d", &m);
     printf("Enter number of Columns: ");
