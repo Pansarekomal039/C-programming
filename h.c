@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void hello();
+void hello(); 
 void goodbye ();
 
 int main() {
