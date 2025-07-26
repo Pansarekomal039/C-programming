@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{ 
 int mat[3][3];
 printf("Enter the numbers");
 for r=0;r<3;r++)
