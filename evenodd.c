@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+ 
 void checkOddEven(int N) {
   
     // Find the remainder
