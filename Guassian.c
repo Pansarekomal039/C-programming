@@ -1,5 +1,5 @@
 #include <stdio.h>   
-#include <math.h>         
+#include <math.h>          
 #define row 10          
 #define col 10       
 void gaussianElimination(double A[row][col], double b[row], double x[row], int n) {
