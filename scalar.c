@@ -2,7 +2,7 @@
 #define row 10
 #define col 10 
 int main()
-{
+{ 
 int mat[row][col];
 int sum[100][100];
 int r,c;
