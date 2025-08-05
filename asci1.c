@@ -2,7 +2,7 @@
 int main() 
 {
     char str[100];
-    int i=0;
+    int i=0; 
     printf("Enter the string");
     scanf("%c",&str);
      while (str[i] != '\0') {
