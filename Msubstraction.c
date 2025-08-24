@@ -1,4 +1,4 @@
-ko#include<stdio.h> 
+#include<stdio.h> 
 #define row 10
 #define col 10   
 int main() 
