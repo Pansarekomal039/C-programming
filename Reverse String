@@ -6,7 +6,7 @@ void reverseString(char str[]) {
         char temp = str[i];
         str[i] = str[n - i - 1];
         str[n - i - 1] = temp;
-    } 
+    }  
 }     
 int main() { 
     char str[100];
