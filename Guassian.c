@@ -10,7 +10,7 @@ void gaussianElimination(double A[row][col], double b[row], double x[row], int n
                 max_row = k;
             }   
         }     
-        for (int k = i; k < n; k++) {
+        for (int k = i; k < n; k++)  {
             double temp = A[max_row][ k];
             A[max_row][k] = A[i][k];
             A[i][k] = temp;
