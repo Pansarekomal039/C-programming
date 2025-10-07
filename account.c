@@ -10,7 +10,7 @@ int main()
     int account[m][n];
     for(i=0;i<m;i++){
         printf("Row %d : \n",i+1);
-        for(j=0;j<n;j++){
+        for(j=0;j<n;j++){ 
             scanf("%d",&account[i][j]);
         }
     }
