@@ -7,7 +7,7 @@ int mat1[row][col];
 int mat2[row][col];        
 int sum[100][100]; 
 int r,c; 
-printf("Enter the rows of matrix");
+printf("Enter the rows of matrix"); 
 scanf("%d",&r);
 printf("Enter the columns of matrix");
 scanf("%d",&c);
