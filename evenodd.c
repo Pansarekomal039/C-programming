@@ -18,7 +18,7 @@ void checkOddEven(int N) {
 }
 
 int main() {
-    int N = 101;
+    int N = 101; 
     checkOddEven(N);
     return 0;
 }
