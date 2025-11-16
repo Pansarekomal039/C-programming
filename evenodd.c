@@ -1,7 +1,7 @@
 
 #include <stdio.h>
   
-void checkOddEven(int N) {
+void checkOddEven(int N) { 
   
     // Find the remainder
     int r = N % 2;
