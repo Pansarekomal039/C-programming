@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-int main()
+int main() 
 {
     int rowsA,colsA,rowsB,colsB,i,j,k;
     printf("Enter the rows for matrix A");
