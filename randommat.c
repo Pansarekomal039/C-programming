@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h> // For rand() and srand()
 #include <time.h>   // For time() to seed the random number generator
 
