@@ -13,7 +13,7 @@ int main()
         for(j=0;j<n;j++){ 
             scanf("%d",&account[i][j]);
         }
-    }
+    } 
    
     for (i = 0; i < m; i++) {
         sum = 0;  
