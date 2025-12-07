@@ -3,7 +3,7 @@
 #define MAXCOL 10
 int main()
 {
-    int r,c,i,j;
+    int r,c,i,j; 
     int mat[MAXROW][MAXCOL];
     printf("Enter the row of matrix;");
     scanf("%d",&r);
