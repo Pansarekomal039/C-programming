@@ -2,7 +2,7 @@
 int main()     
 {
      int m,n,i,j,sum=0,rowToAdd,max;
-    printf("Enter the number of rows");
+    printf("Enter the number of rows"); 
     scanf("%d",&m);
     printf("Enter the number of cols");
     scanf("%d",&n);
