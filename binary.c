@@ -2,7 +2,7 @@
 int main()
 {
     int i,j,n,m; 
-    int mat[10][10];
+    int mat[10][10]; 
     printf("Enter the row of matrix;");
     scanf("%d",&m);
     printf("Enter the col of matrix");
