@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> 
 #define MAXROW 10
 #define MAXCOL 10
 int main()
