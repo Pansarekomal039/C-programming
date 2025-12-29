@@ -3,7 +3,7 @@
 #define col 10     
 int main()       
 {     
-int mat1[row][col];   
+int mat1[row][col];    
 int mat2[row][col];        
 int sum[100][100]; 
 int r,c; 
