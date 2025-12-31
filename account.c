@@ -1,5 +1,5 @@
 #include<stdio.h>    
-int main()      
+int main()       
 {  
      int m,n,i,j,sum=0,rowToAdd,max;
     printf("Enter the number of rows"); 
